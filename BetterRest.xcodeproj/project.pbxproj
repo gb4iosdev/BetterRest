@@ -61,10 +61,10 @@
 				86C6D85524BBC2A100012D08 /* AppDelegate.swift */,
 				86C6D85724BBC2A100012D08 /* SceneDelegate.swift */,
 				86C6D85924BBC2A100012D08 /* ContentView.swift */,
+				86CBC29724BDCE070074AA7A /* SleepCalculator.mlmodel */,
 				86C6D85B24BBC2A500012D08 /* Assets.xcassets */,
 				86C6D86024BBC2A500012D08 /* LaunchScreen.storyboard */,
 				86C6D86324BBC2A500012D08 /* Info.plist */,
-				86CBC29724BDCE070074AA7A /* SleepCalculator.mlmodel */,
 				86C6D85D24BBC2A500012D08 /* Preview Content */,
 			);
 			path = BetterRest;

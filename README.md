@@ -1,13 +1,12 @@
-# 100 Days of SwiftUI Project 4
+# 100 Days of SwiftUI Project 5
 
-## Rock Paper Scissors App
+## Better Rest App
 
-**App Description:**  Simple app to play Rock Paper Scissors against the computer.
+**App Description:**  Application to calculate ideal bed time, given desired wake up time, desired hours of sleep, and daily coffee intake.  Ideal bed time derived from Machine Learning module.
 
 **Swift Features Used:**
-LinearGradient, Button, ZStack, VStack, @State property wrapper, clipShape.
+Create ML, Navigation View, Form, Sections, Stepper, Picker.
 
 **Screenshots:**
 
-![](./ScreenShots/100D_P4_01.png)![](./ScreenShots/100D_P4_02.png)
-![](./ScreenShots/100D_P4_03.png)
+![](./ScreenShots/100D_P5_01.png)![](./ScreenShots/100D_P5_02.png)
